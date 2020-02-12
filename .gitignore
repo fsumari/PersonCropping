@@ -1,0 +1,11 @@
+results
+dataPRID
+docs/images/videoUFF1.mp4
+yolov3_coco.pb
+checkpoint/yolov3_coco_demo.ckpt.data-00000-of-00001
+checkpoint/yolov3_coco.tar.gz
+checkpoint/yolov3_coco.ckpt.meta
+checkpoint/yolov3_coco.ckpt.index
+checkpoint/yolov3_coco_demo.ckpt.meta
+checkpoint/yolov3_coco_demo.ckpt.index
+checkpoint/yolov3_coco.ckpt.data-00000-of-00001
